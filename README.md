@@ -9,6 +9,10 @@
  - sensors
    - room temperature & humidity sensor
    - plant humidity & nutrition sensor
+     - ESP8299
+     - Capacitive Soil Moisture Sensor
+     - MQTT --> HomeAssistant
+     - Doc: https://diyi0t.com/soil-moisture-sensor-tutorial-for-arduino-and-esp8266/
    - weather & sun data
  - watering calendar
  - fertilization calendar
