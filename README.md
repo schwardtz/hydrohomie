@@ -12,6 +12,7 @@
      - ESP8299
      - Capacitive Soil Moisture Sensor
      - MQTT --> HomeAssistant
+     - ESP Home https://esphome.io/#guides
      - Doc: https://diyi0t.com/soil-moisture-sensor-tutorial-for-arduino-and-esp8266/
    - weather & sun data
  - watering calendar
